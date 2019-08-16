@@ -3,4 +3,4 @@
 
 ![ERD](ERD.png)
 
-![Data Dictionary](Data_Dictionary.png)
+![Data Dictionary](Data_dictionary.png)
