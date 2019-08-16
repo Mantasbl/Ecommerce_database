@@ -3,4 +3,6 @@
 
 ![ERD](ERD.png)
 
+# Data Dictionary
+
 ![Data Dictionary](Data_dictionary.png)
